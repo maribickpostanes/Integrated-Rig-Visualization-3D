@@ -1,5 +1,5 @@
 # Integrated 3D Interactive Rig Visualization using Python
-This repository hosts a proof-of-concept, integrated 3D visualization of a land rig substructure and a semi-submersible rig, displayed together in a single interactive browser window with Plotly. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
+This repository hosts a proof-of-concept, integrated 3D interactive visualization of a land rig substructure and a semi-submersible rig, displayed together in a single interactive browser window with Plotly. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
 
 Github Pages Link: https://maribickpostanes.github.io/Integrated-Rig-Visualization-3D/
 
