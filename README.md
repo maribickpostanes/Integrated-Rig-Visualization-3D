@@ -7,7 +7,7 @@ This repository hosts a proof-of-concept, integrated 3D interactive visualizatio
 * **Copyright Notice:** This standalone HTML file and its interactive 3D model layout are my original work. Copying or cloning this layout without explicit written permission is not allowed.
 
 ## Github Pages and Linkedin Post Links
-- (Experience the interactive 3D plots via Github Pages](https://maribickpostanes.github.io/Integrated-Rig-Visualization-3D/)
+- [Experience the interactive 3D plots via Github Pages](https://maribickpostanes.github.io/Integrated-Rig-Visualization-3D/)
 - [Integrated 3D Interactive Rig Linkedin Post](https://www.linkedin.com/posts/maribickpostanes_python-plotly-oilandgas-ugcPost-7434186541759107072-nMB-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0zM30B4KzLX-dj_Wzk1w4cfxNQrmDmOYs)
 
 <img width="1920" height="1080" alt="Integrated 3D Rig Visualization" src="https://github.com/user-attachments/assets/4cf239f7-b31f-4b24-86e7-9fc7cc74fb1a" />
